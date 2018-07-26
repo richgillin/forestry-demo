@@ -1,10 +1,11 @@
 ---
-title: Example Draft
+title: Sandbox
 layout: post
 date: 2018-01-19 00:00:00 +0000
-sub_heading: ''
+sub_heading: move along
 tags: []
 related_posts: []
+
 ---
 ## What are draft posts?
 
